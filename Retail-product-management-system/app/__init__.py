@@ -1,1 +1,0 @@
-"""Retail inventory management application."""

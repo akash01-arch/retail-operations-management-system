@@ -281,4 +281,4 @@ No license file is currently included in this repository. Unless a license is ad
 [https://github.com/akash01-arch/Retail-product-management-system](https://github.com/akash01-arch/Retail-product-management-system)
 
 
-##Author:- Akash More
+**Author:** Akash More
